@@ -1,27 +1,27 @@
 # 🤓 Hi, I’m [_**@Ankillu**_](https://github.com/Ankillu) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 <a href="https://github.com/Ankillu?tab=followers"><img src="https://img.shields.io/github/followers/Ankillu?label=Followers&style=social" alt="GitHub Badge"></a>
 
-```
-                     \\\\\\\                                       |
-                   \\\\\\\\\\\\                                    |
-                  \\\\\\\\\\\\\\\                                  |
-     ,|           |C>   // )\\\\|                                  |
-  ,','|          /    || ,'/////|                                  |
-,','  |         (,    ||   /////                                   |
-|| = =|          \\  ||||//''''|                                   |
-||    |           |||||||     _|                                   |
-|| -- |______      `````\      \                                   |
-||    |     ,|_________/        \__________________________________| 
-||  ,'    ,' |        /          |                                 |
-||,'    ,'   |       |         \  |                                |
-|/    ,'     |      /           | |                                |
-_____________|      |      |    | |                                |
-       |            |      |    | |                                |
-       |        ____|_____/    /  |                                |
-       |    __/ |             /   |                                |
-_______|   ////_/-------------/   |                                |
-___________________________________________________________________|
-```
+
+                     
+                   
+                  
+     
+  
+
+
+
+
+
+
+
+
+
+       
+       
+       
+
+
+
 
 <main>
   <a href="https://github.com/Ankillu/github-readme-stats"><img alt="Clas .R.C.D.M. Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ankillu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="390"/></a>
