@@ -38,6 +38,6 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
 </p>
 <p align="left"> 
-    <a href="https://kivy.org" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fxuton%2Fart%2FKivy-Logo-402772882&psig=AOvVaw22ogtqsRMtPx6R6gYq7SkQ&ust=1676116292418000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKCAu_Pxiv0CFQAAAAAdAAAAABAE"/> </a>
+    <a href="https://kivy.org" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Kivy_logo.png#/media/File:Kivy_logo.png"/> </a>
 </p>
 
