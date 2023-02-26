@@ -18,7 +18,4 @@
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img style="height: 10%;" src="https://img.icons8.com/color/48/000000/python.png"/> </a>
 </p>
-<p align="left"> 
-    <a  href="https://kivy.org" target="_blank"> <img style="height: 10%;"  src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png?20200822223506"/> </a>
-</p>
 
