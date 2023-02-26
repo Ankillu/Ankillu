@@ -12,13 +12,13 @@
 ## Languages and Frameworks:
 
 <p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img style="height: 10%;" src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img  style="height: 10%;" src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
 </p>
 <p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img style="height: 10%;" src="https://img.icons8.com/color/48/000000/python.png"/> </a>
 </p>
 <p align="left"> 
-    <a  href="https://kivy.org" target="_blank"> <img style=height"0.001rem";  src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png?20200822223506"/> </a>
+    <a  href="https://kivy.org" target="_blank"> <img style="height: 10%;"  src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png?20200822223506"/> </a>
 </p>
 
