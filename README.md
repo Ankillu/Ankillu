@@ -5,8 +5,8 @@
                      
                    
 <main>
-  <a href="https://github.com/Ankillu/github-readme-stats"><img alt="Clas .R.C.D.M. Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ankillu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="390"/></a>
-  <a href="https://github.com/Ankillu/github-readme-stats"><img alt="Ankillu Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankillu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1112" width="390"/></a>
+  <a href="https://github.com/Ankillu/github-readme-stats"><img alt="Ankillu Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ankillu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1118" width="390"/></a>
+  <a href="https://github.com/Ankillu/github-readme-stats"><img alt="Ankillu Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankillu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1113" width="390"/></a>
 </main><hr>
 
 ## Languages and Frameworks:
