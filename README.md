@@ -5,7 +5,7 @@
                      
                    
 <main>
-  ![Ankillu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankillu&show_icons=true&theme=tokyonight widht="390")
+  <a> ![Ankillu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankillu&show_icons=true&theme=tokyonight widht="390") </a>
   <a href="https://github.com/Ankillu/github-readme-stats"><img alt="Ankillu Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankillu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1113" width="390"/></a>
 </main><hr>
 
