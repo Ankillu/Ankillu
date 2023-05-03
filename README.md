@@ -5,7 +5,7 @@
                      
                    
 <main>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankillu&hide_progress=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankillu&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ankillu&show_icons=true&theme=tokyonight"/>
 </main><hr>
 
