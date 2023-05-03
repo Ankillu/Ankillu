@@ -18,4 +18,5 @@
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img style="height: 10%;" src="https://img.icons8.com/color/48/000000/python.png"/> </a>
 </p>
+![Snake animation](https://github.com/Ankillu/Ankillu/blob/output/github-contribution-grid-snake.svg)
 
