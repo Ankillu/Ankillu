@@ -1,34 +1,36 @@
 name: Snake Game
 
-# Controlador do tempo que sera feito a atualização dos arquivos.
+# Define quando a ação será executada (a cada 5 horas).
 on:
   schedule:
-      # Será atualizado a cada 5 horas.
     - cron: "0 */5 * * *"
 
-# Permite executar na na lista de Actions (utilizado para testes de build).
-  workflow_dispatch:
+# Permite executar a ação manualmente na lista de ações.
+# Você também pode optar por remover isso se não precisar dessa opção.
+# workflow_dispatch:
 
-# Regras
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Faz o checkout do repositório para que sua ação possa acessá-lo.
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
-
-    # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@master
+      # Usa o repositório Platane/snk para gerar arquivos.
+      - name: Generate Snake Files
+        uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: Ankillu
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - run: git status
+      # Exibe o status do git.
+      - name: Check Git Status
+        run: git status
 
-      # Para as atualizações.
+      # Realiza push das alterações no repositório.
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
@@ -36,9 +38,11 @@ jobs:
           branch: master
           force: true
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # Publica os arquivos gerados no GitHub Pages.
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          # the output branch we mentioned above
+          # O branch de saída que definimos como 'output'.
           target_branch: output
           build_dir: dist
         env:
